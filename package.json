@@ -1,0 +1,22 @@
+{
+  "name": "reversestring",
+  "version": "1.0.0",
+  "description": "An Andela home study task to write a function, `reverseString()`, that returns the reverse of the string argument provided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpose/reversestring.git"
+  },
+  "keywords": [
+    "reversestring"
+  ],
+  "author": "richard jude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpose/reversestring/issues"
+  },
+  "homepage": "https://github.com/kpose/reversestring#readme"
+}
